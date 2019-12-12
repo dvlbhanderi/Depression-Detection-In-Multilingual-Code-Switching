@@ -26,8 +26,5 @@
   Upon running the command in the ‘Usage’ section, barplots will be created that illustrate the effects of the three postprocessing techniques used here to deal with machine bias on the three different datasets based on gender and race.
 
 
-## Contributors
-* See [Contributors](CONTRIBUTORS.md) file for more details.
-
 ## License
 This project is licensed under the **MIT License**. See [LICENSE](LICENSE) for more details.
