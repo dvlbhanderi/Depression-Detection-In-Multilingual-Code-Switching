@@ -16,7 +16,7 @@
      `$ conda env create -f environment.yml`
   3. Activate the environment
      
-     `$ conda activate mangalyaan`
+     `$ conda activate base`
 
   ### Usage
   To run the code, the user can navigate to the folder containing the file 'team-mangalyaan.py', and run it using the command: `$ python team-mangalyaan.py --options`. The user can get a description of the options by using the command: `$ python team-mangalyaan.py -help`.
